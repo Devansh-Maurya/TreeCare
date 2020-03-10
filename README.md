@@ -7,6 +7,9 @@
 
 A persuasive game to prevent sedentary behaviour, built for Android using Android SDK and Unity game engine. The app gamifies your daily walking activity while also allowing users to create and compete in various challenges.
 
+#### Android repository:  [https://github.com/Devansh-Maurya/TreeCare-Android](https://github.com/Devansh-Maurya/TreeCare-Android)
+#### Unity repository:    [https://github.com/Devansh-Maurya/TreeCare-Unity](https://github.com/Devansh-Maurya/TreeCare-Unity)
+
 TreeCare uses the metaphor of a flourishing tree with green leaves and fruits to represent someone who is physically active. In the context of this app, a person is physically active if he/she walks or runs daily. If a person does so regularly, he gets more leaves and fruits on the tree (Figure 1), while a tree with no leaf and fruit means zero activity (Figure 2). Figure 2 is the default tree.
 
 ![Tree images](https://raw.githubusercontent.com/Devansh-Maurya/TreeCare/master/Description/TreeImages.png) 
@@ -16,7 +19,6 @@ To make the game engaging and fun, three modes are provided:
 #### 1. Starter mode
 #### 2. Challenger Mode
 #### 3. Tournament Mode
-
 
 ## 1. Starter Mode
 
@@ -54,6 +56,3 @@ to the remaining steps required to meet the goal. In other words,
 5. But, if the team fails to fulfil its daily goals for a week, a fruit disappears (if any)
 
 #### Note: The Tournament Mode is still under development. In the current version, the game only has starter mode and challenger mode.
-
-#### Android repository:  [https://github.com/Devansh-Maurya/TreeCare-Android](https://github.com/Devansh-Maurya/TreeCare-Android)
-#### Unity repository:    [https://github.com/Devansh-Maurya/TreeCare-Unity](https://github.com/Devansh-Maurya/TreeCare-Unity)
