@@ -11,6 +11,17 @@ A persuasive game to prevent sedentary behaviour, built for Android using Androi
 
 TreeCare uses the metaphor of a flourishing tree with green leaves and fruits to represent someone who is physically active. In the context of this app, a person is physically active if he/she walks or runs daily. If a person does so regularly, he gets more leaves and fruits on the tree, while a tree with no leaf and fruit means zero activity. An empty tree is the default tree.
 
+## Screenshots
+
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/tree_with_leaves.png)]()
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/profile.png)](Profile)
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/challenges.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/challenges.png)
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/leaderboard.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/leaderboard.png)
+[![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/progress_report.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/progress_report.png)
+
+
+
 ## Game Modes
 To make the game engaging and fun, three modes are provided:
 #### 1. Starter mode
