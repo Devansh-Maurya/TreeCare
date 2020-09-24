@@ -21,6 +21,7 @@ TreeCare uses the metaphor of a flourishing tree with green leaves and fruits to
 
 
 ## Technologies Used
+* **Unity Game Development Engine** for developing the tree screen
 * **Kotlin** as the main programming language
 * **MVVM Architecture** using Android Architecture Components
 * **Google Fit API** for getting step count data of the user
