@@ -12,10 +12,6 @@ TreeCare uses the metaphor of a flourishing tree with green leaves and fruits to
 #### [Detailed Report (PDF)](https://drive.google.com/open?id=1Qqsmh4Rdsda6ex7oUO83Shqa3cQ__1Me)
 #### [Conference paper submitted at Aalborg, Denmark, 15th International Conference on Persuasive Technology (Persuasive 2020)](https://www.researchgate.net/publication/341001151_A_Persuasive_Mobile_Game_for_Reducing_Sedentary_Behaviour_and_Promoting_Physical_Activity)
 
-## Code Repositories
-#### Android repository:  [https://github.com/Devansh-Maurya/TreeCare-Android](https://github.com/Devansh-Maurya/TreeCare-Android)
-#### Unity repository:    [https://github.com/Devansh-Maurya/TreeCare-Unity](https://github.com/Devansh-Maurya/TreeCare-Unity)
-
 ## Screenshots
 
 [![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)
