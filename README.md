@@ -8,9 +8,8 @@ The app was built as a project during the **Mitacs Globalink Research Internship
 
 TreeCare uses the metaphor of a flourishing tree with green leaves and fruits to represent someone who is physically active. In the context of this app, a person is physically active if he/she walks or runs daily. If a person does so regularly, he gets more leaves and fruits on the tree, while a tree with no leaf and fruit means zero activity. An empty tree is the default tree.
 
-#### [Detailed Report (PDF)](https://drive.google.com/open?id=1Qqsmh4Rdsda6ex7oUO83Shqa3cQ__1Me)
-#### [Conference paper submitted at Aalborg, Denmark, 15th International Conference on Persuasive Technology (Persuasive 2020)](https://www.researchgate.net/publication/341001151_A_Persuasive_Mobile_Game_for_Reducing_Sedentary_Behaviour_and_Promoting_Physical_Activity)
-
+#### [Request Access to the Android App](https://forms.gle/o8bEqHwsegatzy6z6)
+#### [International Conference Paper Presented at IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH), Vancouver, BC, Canada, 2020](https://ieeexplore.ieee.org/document/9201637)
 ## Screenshots
 
 [![Download APK](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)](https://github.com/Devansh-Maurya/TreeCare/blob/master/Description/mode_selection.png)
